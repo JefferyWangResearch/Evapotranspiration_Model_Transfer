@@ -1,0 +1,53 @@
+site,outer_year,model,n_train,best_params,inner_group_rmse
+US-Ne2,2001,ridge,1408,"{""alpha"": 1.0}",28.491413511091125
+US-Ne2,2001,random_forest,1408,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.211829794044576
+US-Ne2,2002,ridge,1365,"{""alpha"": 1.0}",28.465343888697678
+US-Ne2,2002,random_forest,1365,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.21295776088658
+US-Ne2,2003,ridge,1364,"{""alpha"": 1.0}",28.766835105230783
+US-Ne2,2003,random_forest,1364,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.252402007308827
+US-Ne2,2004,ridge,1383,"{""alpha"": 1.0}",28.602255509842674
+US-Ne2,2004,random_forest,1383,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.34723340460152
+US-Ne2,2005,ridge,1362,"{""alpha"": 1.0}",29.0222811359966
+US-Ne2,2005,random_forest,1362,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.42889817599358
+US-Ne2,2006,ridge,1363,"{""alpha"": 1.0}",28.239868555042623
+US-Ne2,2006,random_forest,1363,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.265699085303886
+US-Ne2,2007,ridge,1346,"{""alpha"": 1.0}",28.94371214311536
+US-Ne2,2007,random_forest,1346,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.4723417157036
+US-Ne2,2008,ridge,1342,"{""alpha"": 1.0}",28.391261440570872
+US-Ne2,2008,random_forest,1342,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.508078483606564
+US-Ne2,2009,ridge,1367,"{""alpha"": 0.1}",28.23890981122446
+US-Ne2,2009,random_forest,1367,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.050532548211024
+US-Ne2,2010,ridge,1382,"{""alpha"": 1.0}",29.091450490341973
+US-Ne2,2010,random_forest,1382,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.4949009659478
+US-Ne2,2011,ridge,1382,"{""alpha"": 1.0}",28.528131363793907
+US-Ne2,2011,random_forest,1382,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.291993338576155
+US-Ne2,2012,ridge,1359,"{""alpha"": 10.0}",28.60811542547527
+US-Ne2,2012,random_forest,1359,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.943395036870577
+US-Ne2,2013,ridge,1469,"{""alpha"": 10.0}",28.430916200141766
+US-Ne2,2013,random_forest,1469,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.170218053659813
+US-Ne3,2001,ridge,1413,"{""alpha"": 0.1}",25.49395053353077
+US-Ne3,2001,random_forest,1413,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.587421176663934
+US-Ne3,2002,ridge,1382,"{""alpha"": 1.0}",25.130177322713568
+US-Ne3,2002,random_forest,1382,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",21.785892956353194
+US-Ne3,2003,ridge,1386,"{""alpha"": 1.0}",25.73990135535204
+US-Ne3,2003,random_forest,1386,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.099356128317066
+US-Ne3,2004,ridge,1404,"{""alpha"": 0.1}",25.361390441344174
+US-Ne3,2004,random_forest,1404,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",22.119132202971006
+US-Ne3,2005,ridge,1372,"{""alpha"": 1.0}",26.002811065292267
+US-Ne3,2005,random_forest,1372,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",22.036104739957413
+US-Ne3,2006,ridge,1361,"{""alpha"": 1.0}",25.244560922132855
+US-Ne3,2006,random_forest,1361,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.80815515937159
+US-Ne3,2007,ridge,1359,"{""alpha"": 10.0}",25.540147831306466
+US-Ne3,2007,random_forest,1359,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.637121726631776
+US-Ne3,2008,ridge,1359,"{""alpha"": 1.0}",25.7223245998819
+US-Ne3,2008,random_forest,1359,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.87833900168179
+US-Ne3,2009,ridge,1386,"{""alpha"": 1.0}",25.241349404370006
+US-Ne3,2009,random_forest,1386,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.88762929066184
+US-Ne3,2010,ridge,1396,"{""alpha"": 0.1}",25.098998849118342
+US-Ne3,2010,random_forest,1396,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.66737257766951
+US-Ne3,2011,ridge,1396,"{""alpha"": 1.0}",25.512350890272884
+US-Ne3,2011,random_forest,1396,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.922157790301302
+US-Ne3,2012,ridge,1382,"{""alpha"": 1.0}",25.513914504337226
+US-Ne3,2012,random_forest,1382,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.912615367445973
+US-Ne3,2013,ridge,1488,"{""alpha"": 1.0}",25.388030845865394
+US-Ne3,2013,random_forest,1488,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.762854697091928

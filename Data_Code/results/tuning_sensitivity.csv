@@ -1,0 +1,249 @@
+cohort,source_site,outer_year,model,n_train,best_params,inner_group_rmse
+growing_qc050,US-Ne2,2001,ridge,1648,"{""alpha"": 1.0}",28.374038031198634
+growing_qc050,US-Ne2,2001,random_forest,1648,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.745449255680484
+growing_qc050,US-Ne2,2002,ridge,1603,"{""alpha"": 10.0}",28.745369724694857
+growing_qc050,US-Ne2,2002,random_forest,1603,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.150969926785503
+growing_qc050,US-Ne2,2003,ridge,1605,"{""alpha"": 1.0}",28.829160360663142
+growing_qc050,US-Ne2,2003,random_forest,1605,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.50057256129248
+growing_qc050,US-Ne2,2004,ridge,1609,"{""alpha"": 1.0}",28.68427634037657
+growing_qc050,US-Ne2,2004,random_forest,1609,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.442944507278682
+growing_qc050,US-Ne2,2005,ridge,1603,"{""alpha"": 10.0}",29.000954444933456
+growing_qc050,US-Ne2,2005,random_forest,1603,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.206239182872622
+growing_qc050,US-Ne2,2006,ridge,1605,"{""alpha"": 1.0}",28.434597357988444
+growing_qc050,US-Ne2,2006,random_forest,1605,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.41810203175135
+growing_qc050,US-Ne2,2007,ridge,1599,"{""alpha"": 1.0}",28.69520724561965
+growing_qc050,US-Ne2,2007,random_forest,1599,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.245370828018796
+growing_qc050,US-Ne2,2008,ridge,1598,"{""alpha"": 1.0}",28.483818686545867
+growing_qc050,US-Ne2,2008,random_forest,1598,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.845841714625358
+growing_qc050,US-Ne2,2009,ridge,1601,"{""alpha"": 1.0}",27.999560113213136
+growing_qc050,US-Ne2,2009,random_forest,1601,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.20905384948945
+growing_qc050,US-Ne2,2010,ridge,1609,"{""alpha"": 1.0}",29.168435311527343
+growing_qc050,US-Ne2,2010,random_forest,1609,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.461517233985994
+growing_qc050,US-Ne2,2011,ridge,1610,"{""alpha"": 1.0}",28.48587507774193
+growing_qc050,US-Ne2,2011,random_forest,1610,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.64141265937598
+growing_qc050,US-Ne2,2012,ridge,1599,"{""alpha"": 1.0}",28.322822115477166
+growing_qc050,US-Ne2,2012,random_forest,1599,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.466023361891327
+growing_qc050,US-Ne2,2013,ridge,1723,"{""alpha"": 1.0}",28.16554111481973
+growing_qc050,US-Ne2,2013,random_forest,1723,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",24.659961019667183
+growing_qc050,US-Ne3,2001,ridge,1623,"{""alpha"": 0.1}",25.31179417487831
+growing_qc050,US-Ne3,2001,random_forest,1623,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.571627823587466
+growing_qc050,US-Ne3,2002,ridge,1583,"{""alpha"": 1.0}",25.256670603736808
+growing_qc050,US-Ne3,2002,random_forest,1583,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",21.81887408661552
+growing_qc050,US-Ne3,2003,ridge,1587,"{""alpha"": 1.0}",25.72502752775192
+growing_qc050,US-Ne3,2003,random_forest,1587,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.847997724873782
+growing_qc050,US-Ne3,2004,ridge,1596,"{""alpha"": 1.0}",25.488581882089015
+growing_qc050,US-Ne3,2004,random_forest,1596,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.991546169509878
+growing_qc050,US-Ne3,2005,ridge,1580,"{""alpha"": 1.0}",25.96707331037809
+growing_qc050,US-Ne3,2005,random_forest,1580,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.008384019366616
+growing_qc050,US-Ne3,2006,ridge,1578,"{""alpha"": 1.0}",24.796595782329646
+growing_qc050,US-Ne3,2006,random_forest,1578,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",22.019707721174854
+growing_qc050,US-Ne3,2007,ridge,1575,"{""alpha"": 10.0}",25.22607245003449
+growing_qc050,US-Ne3,2007,random_forest,1575,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",21.51253507684497
+growing_qc050,US-Ne3,2008,ridge,1575,"{""alpha"": 1.0}",25.375239934477005
+growing_qc050,US-Ne3,2008,random_forest,1575,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.71890156994244
+growing_qc050,US-Ne3,2009,ridge,1581,"{""alpha"": 0.1}",25.03323063431734
+growing_qc050,US-Ne3,2009,random_forest,1581,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.777285304710446
+growing_qc050,US-Ne3,2010,ridge,1588,"{""alpha"": 1.0}",25.080225951748467
+growing_qc050,US-Ne3,2010,random_forest,1588,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.447805469746427
+growing_qc050,US-Ne3,2011,ridge,1588,"{""alpha"": 1.0}",25.502349823568984
+growing_qc050,US-Ne3,2011,random_forest,1588,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.70553525027841
+growing_qc050,US-Ne3,2012,ridge,1581,"{""alpha"": 10.0}",25.614798331936434
+growing_qc050,US-Ne3,2012,random_forest,1581,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.611579076404205
+growing_qc050,US-Ne3,2013,ridge,1701,"{""alpha"": 1.0}",25.287404931051746
+growing_qc050,US-Ne3,2013,random_forest,1701,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.784515117843966
+growing_qc090,US-Ne2,2001,ridge,959,"{""alpha"": 1.0}",28.150359773522364
+growing_qc090,US-Ne2,2001,random_forest,959,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",24.925207069292362
+growing_qc090,US-Ne2,2002,ridge,939,"{""alpha"": 0.1}",28.269160115680656
+growing_qc090,US-Ne2,2002,random_forest,939,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.16315969902886
+growing_qc090,US-Ne2,2003,ridge,926,"{""alpha"": 10.0}",28.577497910061805
+growing_qc090,US-Ne2,2003,random_forest,926,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",24.903596363592154
+growing_qc090,US-Ne2,2004,ridge,960,"{""alpha"": 1.0}",28.22038063366641
+growing_qc090,US-Ne2,2004,random_forest,960,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 1}",25.50116344980053
+growing_qc090,US-Ne2,2005,ridge,927,"{""alpha"": 10.0}",29.157067478483782
+growing_qc090,US-Ne2,2005,random_forest,927,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.070806589478213
+growing_qc090,US-Ne2,2006,ridge,928,"{""alpha"": 1.0}",27.624230323191682
+growing_qc090,US-Ne2,2006,random_forest,928,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.005522424222733
+growing_qc090,US-Ne2,2007,ridge,907,"{""alpha"": 10.0}",29.44650841741346
+growing_qc090,US-Ne2,2007,random_forest,907,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.424872762479367
+growing_qc090,US-Ne2,2008,ridge,904,"{""alpha"": 1.0}",28.738447423873673
+growing_qc090,US-Ne2,2008,random_forest,904,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",24.679772429804526
+growing_qc090,US-Ne2,2009,ridge,947,"{""alpha"": 0.1}",28.137759430169982
+growing_qc090,US-Ne2,2009,random_forest,947,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 1}",25.150109784251903
+growing_qc090,US-Ne2,2010,ridge,958,"{""alpha"": 0.1}",28.842225948473654
+growing_qc090,US-Ne2,2010,random_forest,958,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",26.116669419797965
+growing_qc090,US-Ne2,2011,ridge,959,"{""alpha"": 1.0}",28.052670059766438
+growing_qc090,US-Ne2,2011,random_forest,959,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",24.899367840584308
+growing_qc090,US-Ne2,2012,ridge,928,"{""alpha"": 10.0}",28.566136221539683
+growing_qc090,US-Ne2,2012,random_forest,928,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",24.393132640941182
+growing_qc090,US-Ne2,2013,ridge,1010,"{""alpha"": 1.0}",28.201869378547176
+growing_qc090,US-Ne2,2013,random_forest,1010,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 1}",25.397173635877422
+growing_qc090,US-Ne3,2001,ridge,980,"{""alpha"": 1.0}",24.946253351902616
+growing_qc090,US-Ne3,2001,random_forest,980,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",20.687413555456942
+growing_qc090,US-Ne3,2002,ridge,966,"{""alpha"": 1.0}",25.249705362252264
+growing_qc090,US-Ne3,2002,random_forest,966,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.283594620526372
+growing_qc090,US-Ne3,2003,ridge,964,"{""alpha"": 10.0}",25.247842082517373
+growing_qc090,US-Ne3,2003,random_forest,964,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.420886488021587
+growing_qc090,US-Ne3,2004,ridge,985,"{""alpha"": 1.0}",25.240964905867322
+growing_qc090,US-Ne3,2004,random_forest,985,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.893804876157848
+growing_qc090,US-Ne3,2005,ridge,947,"{""alpha"": 10.0}",25.78741542181884
+growing_qc090,US-Ne3,2005,random_forest,947,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",22.203215152435003
+growing_qc090,US-Ne3,2006,ridge,944,"{""alpha"": 1.0}",24.31464986661105
+growing_qc090,US-Ne3,2006,random_forest,944,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.868873187515277
+growing_qc090,US-Ne3,2007,ridge,930,"{""alpha"": 1.0}",24.850201854387436
+growing_qc090,US-Ne3,2007,random_forest,930,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.817946500225194
+growing_qc090,US-Ne3,2008,ridge,934,"{""alpha"": 0.1}",24.15892052344725
+growing_qc090,US-Ne3,2008,random_forest,934,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.267948720412065
+growing_qc090,US-Ne3,2009,ridge,977,"{""alpha"": 0.1}",24.60936762026138
+growing_qc090,US-Ne3,2009,random_forest,977,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.38475009634273
+growing_qc090,US-Ne3,2010,ridge,995,"{""alpha"": 1.0}",24.965890751048544
+growing_qc090,US-Ne3,2010,random_forest,995,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.829804813243225
+growing_qc090,US-Ne3,2011,ridge,999,"{""alpha"": 1.0}",25.27494693965082
+growing_qc090,US-Ne3,2011,random_forest,999,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.109455226415058
+growing_qc090,US-Ne3,2012,ridge,970,"{""alpha"": 1.0}",26.011126679338204
+growing_qc090,US-Ne3,2012,random_forest,970,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.95056632187881
+growing_qc090,US-Ne3,2013,ridge,1045,"{""alpha"": 1.0}",25.1647212981811
+growing_qc090,US-Ne3,2013,random_forest,1045,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.80157447224174
+all_year_qc075,US-Ne2,2001,ridge,3395,"{""alpha"": 10.0}",23.41137978402991
+all_year_qc075,US-Ne2,2001,random_forest,3395,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",18.592324922504922
+all_year_qc075,US-Ne2,2002,ridge,3261,"{""alpha"": 10.0}",23.571044026088593
+all_year_qc075,US-Ne2,2002,random_forest,3261,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",18.540639080081974
+all_year_qc075,US-Ne2,2003,ridge,3257,"{""alpha"": 1.0}",23.758778250868378
+all_year_qc075,US-Ne2,2003,random_forest,3257,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.73478813743866
+all_year_qc075,US-Ne2,2004,ridge,3278,"{""alpha"": 10.0}",23.62762256958798
+all_year_qc075,US-Ne2,2004,random_forest,3278,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.718954710952044
+all_year_qc075,US-Ne2,2005,ridge,3263,"{""alpha"": 10.0}",23.49208276564016
+all_year_qc075,US-Ne2,2005,random_forest,3263,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",18.45565562304042
+all_year_qc075,US-Ne2,2006,ridge,3254,"{""alpha"": 10.0}",23.417789313942976
+all_year_qc075,US-Ne2,2006,random_forest,3254,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",18.685689980747075
+all_year_qc075,US-Ne2,2007,ridge,3247,"{""alpha"": 10.0}",23.670990374081022
+all_year_qc075,US-Ne2,2007,random_forest,3247,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",18.659602074969815
+all_year_qc075,US-Ne2,2008,ridge,3207,"{""alpha"": 10.0}",24.122265931902625
+all_year_qc075,US-Ne2,2008,random_forest,3207,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.802360719449158
+all_year_qc075,US-Ne2,2009,ridge,3252,"{""alpha"": 10.0}",23.70987657282591
+all_year_qc075,US-Ne2,2009,random_forest,3252,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.800879798081812
+all_year_qc075,US-Ne2,2010,ridge,3277,"{""alpha"": 10.0}",23.923842894816296
+all_year_qc075,US-Ne2,2010,random_forest,3277,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",18.716921429777386
+all_year_qc075,US-Ne2,2011,ridge,3294,"{""alpha"": 1.0}",23.360285639392227
+all_year_qc075,US-Ne2,2011,random_forest,3294,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.38423541734836
+all_year_qc075,US-Ne2,2012,ridge,3261,"{""alpha"": 10.0}",23.471809850785284
+all_year_qc075,US-Ne2,2012,random_forest,3261,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",18.48636584199368
+all_year_qc075,US-Ne2,2013,ridge,3438,"{""alpha"": 1.0}",23.506461786791746
+all_year_qc075,US-Ne2,2013,random_forest,3438,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",18.506392281550113
+all_year_qc075,US-Ne3,2001,ridge,3348,"{""alpha"": 10.0}",21.376286879447374
+all_year_qc075,US-Ne3,2001,random_forest,3348,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.00160174069372
+all_year_qc075,US-Ne3,2002,ridge,3232,"{""alpha"": 1.0}",21.615105081806362
+all_year_qc075,US-Ne3,2002,random_forest,3232,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.171306391335044
+all_year_qc075,US-Ne3,2003,ridge,3239,"{""alpha"": 1.0}",21.714781653677313
+all_year_qc075,US-Ne3,2003,random_forest,3239,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",16.27751367047142
+all_year_qc075,US-Ne3,2004,ridge,3247,"{""alpha"": 1.0}",21.51445192930085
+all_year_qc075,US-Ne3,2004,random_forest,3247,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.411697016272104
+all_year_qc075,US-Ne3,2005,ridge,3219,"{""alpha"": 1.0}",21.65579607218503
+all_year_qc075,US-Ne3,2005,random_forest,3219,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",16.124745326579536
+all_year_qc075,US-Ne3,2006,ridge,3190,"{""alpha"": 10.0}",21.52228517566021
+all_year_qc075,US-Ne3,2006,random_forest,3190,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",16.358739272911563
+all_year_qc075,US-Ne3,2007,ridge,3184,"{""alpha"": 1.0}",21.33672135434314
+all_year_qc075,US-Ne3,2007,random_forest,3184,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",16.061669314132196
+all_year_qc075,US-Ne3,2008,ridge,3173,"{""alpha"": 1.0}",21.79234206733488
+all_year_qc075,US-Ne3,2008,random_forest,3173,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.401173856842583
+all_year_qc075,US-Ne3,2009,ridge,3225,"{""alpha"": 10.0}",21.691302090041145
+all_year_qc075,US-Ne3,2009,random_forest,3225,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.21551438436098
+all_year_qc075,US-Ne3,2010,ridge,3259,"{""alpha"": 10.0}",21.478259937295157
+all_year_qc075,US-Ne3,2010,random_forest,3259,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",16.200243756721946
+all_year_qc075,US-Ne3,2011,ridge,3267,"{""alpha"": 10.0}",21.58855347706178
+all_year_qc075,US-Ne3,2011,random_forest,3267,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",16.23359231158506
+all_year_qc075,US-Ne3,2012,ridge,3258,"{""alpha"": 10.0}",21.75585459082405
+all_year_qc075,US-Ne3,2012,random_forest,3258,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.11982719254726
+all_year_qc075,US-Ne3,2013,ridge,3411,"{""alpha"": 1.0}",21.779194226989087
+all_year_qc075,US-Ne3,2013,random_forest,3411,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",16.120639504853518
+crop_matched_growing_qc075,US-Ne2,2001,ridge,1167,"{""alpha"": 10.0}",29.299581909980233
+crop_matched_growing_qc075,US-Ne2,2001,random_forest,1167,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.324655439310778
+crop_matched_growing_qc075,US-Ne2,2002,ridge,1124,"{""alpha"": 10.0}",29.31628600956501
+crop_matched_growing_qc075,US-Ne2,2002,random_forest,1124,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",26.52637125122058
+crop_matched_growing_qc075,US-Ne2,2003,ridge,1123,"{""alpha"": 10.0}",30.111258955423153
+crop_matched_growing_qc075,US-Ne2,2003,random_forest,1123,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",26.939986757009397
+crop_matched_growing_qc075,US-Ne2,2004,ridge,1142,"{""alpha"": 10.0}",29.612495359865953
+crop_matched_growing_qc075,US-Ne2,2004,random_forest,1142,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.61491814653811
+crop_matched_growing_qc075,US-Ne2,2005,ridge,1121,"{""alpha"": 1.0}",29.417464825961922
+crop_matched_growing_qc075,US-Ne2,2005,random_forest,1121,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.84552461515421
+crop_matched_growing_qc075,US-Ne2,2006,ridge,1122,"{""alpha"": 1.0}",28.49574114086089
+crop_matched_growing_qc075,US-Ne2,2006,random_forest,1122,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",26.260388475325723
+crop_matched_growing_qc075,US-Ne2,2007,ridge,1105,"{""alpha"": 1.0}",29.569754674450834
+crop_matched_growing_qc075,US-Ne2,2007,random_forest,1105,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.807783310641895
+crop_matched_growing_qc075,US-Ne2,2008,ridge,1101,"{""alpha"": 1.0}",29.255962894940353
+crop_matched_growing_qc075,US-Ne2,2008,random_forest,1101,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.388919810411675
+crop_matched_growing_qc075,US-Ne2,2009,ridge,1126,"{""alpha"": 10.0}",29.352762502800303
+crop_matched_growing_qc075,US-Ne2,2009,random_forest,1126,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",26.15064558620382
+crop_matched_growing_qc075,US-Ne2,2011,ridge,1141,"{""alpha"": 100.0}",29.63642576989762
+crop_matched_growing_qc075,US-Ne2,2011,random_forest,1141,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.758278455709046
+crop_matched_growing_qc075,US-Ne2,2013,ridge,1228,"{""alpha"": 10.0}",28.940723416898297
+crop_matched_growing_qc075,US-Ne2,2013,random_forest,1228,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.275273380089672
+crop_matched_growing_qc075,US-Ne3,2001,ridge,1177,"{""alpha"": 1.0}",25.201397196400922
+crop_matched_growing_qc075,US-Ne3,2001,random_forest,1177,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",20.927395893034475
+crop_matched_growing_qc075,US-Ne3,2002,ridge,1146,"{""alpha"": 10.0}",25.26381667733891
+crop_matched_growing_qc075,US-Ne3,2002,random_forest,1146,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.51485330474249
+crop_matched_growing_qc075,US-Ne3,2003,ridge,1150,"{""alpha"": 1.0}",25.57290142485622
+crop_matched_growing_qc075,US-Ne3,2003,random_forest,1150,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.601914463295437
+crop_matched_growing_qc075,US-Ne3,2004,ridge,1168,"{""alpha"": 1.0}",25.050246305579577
+crop_matched_growing_qc075,US-Ne3,2004,random_forest,1168,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.622086110441217
+crop_matched_growing_qc075,US-Ne3,2005,ridge,1136,"{""alpha"": 10.0}",26.002963399777396
+crop_matched_growing_qc075,US-Ne3,2005,random_forest,1136,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.771338491556108
+crop_matched_growing_qc075,US-Ne3,2006,ridge,1125,"{""alpha"": 1.0}",24.365624416271114
+crop_matched_growing_qc075,US-Ne3,2006,random_forest,1125,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.454471165364545
+crop_matched_growing_qc075,US-Ne3,2007,ridge,1123,"{""alpha"": 10.0}",25.547789173690877
+crop_matched_growing_qc075,US-Ne3,2007,random_forest,1123,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 1}",21.78036102588827
+crop_matched_growing_qc075,US-Ne3,2008,ridge,1123,"{""alpha"": 10.0}",25.482902747025143
+crop_matched_growing_qc075,US-Ne3,2008,random_forest,1123,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.572406746993085
+crop_matched_growing_qc075,US-Ne3,2009,ridge,1150,"{""alpha"": 1.0}",25.135649425782997
+crop_matched_growing_qc075,US-Ne3,2009,random_forest,1150,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.499767345402315
+crop_matched_growing_qc075,US-Ne3,2011,ridge,1160,"{""alpha"": 1.0}",25.251742613038875
+crop_matched_growing_qc075,US-Ne3,2011,random_forest,1160,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.003059942033026
+crop_matched_growing_qc075,US-Ne3,2013,ridge,1252,"{""alpha"": 1.0}",25.293704251465513
+crop_matched_growing_qc075,US-Ne3,2013,random_forest,1252,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.414360717879333
+exclude2013_growing_qc075,US-Ne2,2001,ridge,1386,"{""alpha"": 1.0}",28.39415404127842
+exclude2013_growing_qc075,US-Ne2,2001,random_forest,1386,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.96493884792642
+exclude2013_growing_qc075,US-Ne2,2002,ridge,1343,"{""alpha"": 1.0}",28.448944150270943
+exclude2013_growing_qc075,US-Ne2,2002,random_forest,1343,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.936852444057447
+exclude2013_growing_qc075,US-Ne2,2003,ridge,1342,"{""alpha"": 1.0}",28.74880379142002
+exclude2013_growing_qc075,US-Ne2,2003,random_forest,1342,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.90276569106553
+exclude2013_growing_qc075,US-Ne2,2004,ridge,1361,"{""alpha"": 1.0}",28.415253770150635
+exclude2013_growing_qc075,US-Ne2,2004,random_forest,1361,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.190245812011504
+exclude2013_growing_qc075,US-Ne2,2005,ridge,1340,"{""alpha"": 10.0}",29.045675680630094
+exclude2013_growing_qc075,US-Ne2,2005,random_forest,1340,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.124756200807667
+exclude2013_growing_qc075,US-Ne2,2006,ridge,1341,"{""alpha"": 1.0}",28.203445365916956
+exclude2013_growing_qc075,US-Ne2,2006,random_forest,1341,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.980439629978015
+exclude2013_growing_qc075,US-Ne2,2007,ridge,1324,"{""alpha"": 10.0}",28.5775276468838
+exclude2013_growing_qc075,US-Ne2,2007,random_forest,1324,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",25.132929481399408
+exclude2013_growing_qc075,US-Ne2,2008,ridge,1320,"{""alpha"": 1.0}",28.267380335627475
+exclude2013_growing_qc075,US-Ne2,2008,random_forest,1320,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.163249371884557
+exclude2013_growing_qc075,US-Ne2,2009,ridge,1345,"{""alpha"": 0.1}",28.11466776254734
+exclude2013_growing_qc075,US-Ne2,2009,random_forest,1345,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 1}",24.79212975681445
+exclude2013_growing_qc075,US-Ne2,2010,ridge,1360,"{""alpha"": 10.0}",28.914672079112535
+exclude2013_growing_qc075,US-Ne2,2010,random_forest,1360,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",25.249705398778254
+exclude2013_growing_qc075,US-Ne2,2011,ridge,1360,"{""alpha"": 10.0}",28.36218081689293
+exclude2013_growing_qc075,US-Ne2,2011,random_forest,1360,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",23.922572514802134
+exclude2013_growing_qc075,US-Ne2,2012,ridge,1337,"{""alpha"": 10.0}",28.517615885181655
+exclude2013_growing_qc075,US-Ne2,2012,random_forest,1337,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",24.556803553122023
+exclude2013_growing_qc075,US-Ne3,2001,ridge,1394,"{""alpha"": 1.0}",25.589314147970867
+exclude2013_growing_qc075,US-Ne3,2001,random_forest,1394,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.609205425135148
+exclude2013_growing_qc075,US-Ne3,2002,ridge,1363,"{""alpha"": 1.0}",25.038182159380597
+exclude2013_growing_qc075,US-Ne3,2002,random_forest,1363,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.653309925475597
+exclude2013_growing_qc075,US-Ne3,2003,ridge,1367,"{""alpha"": 10.0}",25.781319299174182
+exclude2013_growing_qc075,US-Ne3,2003,random_forest,1367,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.06358830073374
+exclude2013_growing_qc075,US-Ne3,2004,ridge,1385,"{""alpha"": 0.1}",25.428455890642002
+exclude2013_growing_qc075,US-Ne3,2004,random_forest,1385,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",22.19583442516187
+exclude2013_growing_qc075,US-Ne3,2005,ridge,1353,"{""alpha"": 10.0}",25.927586822752573
+exclude2013_growing_qc075,US-Ne3,2005,random_forest,1353,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",22.037102512540912
+exclude2013_growing_qc075,US-Ne3,2006,ridge,1342,"{""alpha"": 10.0}",25.153534211698197
+exclude2013_growing_qc075,US-Ne3,2006,random_forest,1342,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.81136198058496
+exclude2013_growing_qc075,US-Ne3,2007,ridge,1340,"{""alpha"": 10.0}",25.52682188762706
+exclude2013_growing_qc075,US-Ne3,2007,random_forest,1340,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.565548060113635
+exclude2013_growing_qc075,US-Ne3,2008,ridge,1340,"{""alpha"": 10.0}",25.700098761224822
+exclude2013_growing_qc075,US-Ne3,2008,random_forest,1340,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.834675791483118
+exclude2013_growing_qc075,US-Ne3,2009,ridge,1367,"{""alpha"": 1.0}",25.324870224393443
+exclude2013_growing_qc075,US-Ne3,2009,random_forest,1367,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.796854053755602
+exclude2013_growing_qc075,US-Ne3,2010,ridge,1377,"{""alpha"": 1.0}",25.16014072630785
+exclude2013_growing_qc075,US-Ne3,2010,random_forest,1377,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 3}",21.706850890386953
+exclude2013_growing_qc075,US-Ne3,2011,ridge,1377,"{""alpha"": 1.0}",25.58238651134115
+exclude2013_growing_qc075,US-Ne3,2011,random_forest,1377,"{""max_depth"": null, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.980546626584246
+exclude2013_growing_qc075,US-Ne3,2012,ridge,1363,"{""alpha"": 1.0}",25.436803186716816
+exclude2013_growing_qc075,US-Ne3,2012,random_forest,1363,"{""max_depth"": 10, ""max_features"": 0.7, ""min_samples_leaf"": 7}",21.87137204952013

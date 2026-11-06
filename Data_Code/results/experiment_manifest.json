@@ -1,0 +1,45 @@
+{
+  "cohort": "May-September and site-specific QC >= 0.75",
+  "features": [
+    "TA",
+    "RH",
+    "WS",
+    "PA",
+    "SW_IN",
+    "LW_IN",
+    "NDVI",
+    "VPD",
+    "sin_DOY",
+    "cos_DOY"
+  ],
+  "years": [
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+  ],
+  "random_seeds": [
+    1103,
+    2213,
+    3323,
+    4433,
+    5543,
+    6653,
+    7763,
+    8873,
+    9983,
+    10993
+  ],
+  "prediction_rows": 116922,
+  "metric_rows": 1014,
+  "elapsed_seconds": 126.88863706588745
+}

@@ -1,0 +1,14 @@
+year,US-Ne2_crop,US-Ne3_crop,crop_matched,US-Ne2_management_note,source
+2001,maize,maize,True,standard rotation,AmeriFlux site metadata
+2002,soybean,soybean,True,standard rotation,AmeriFlux site metadata
+2003,maize,maize,True,standard rotation,AmeriFlux site metadata
+2004,soybean,soybean,True,standard rotation,AmeriFlux site metadata
+2005,maize,maize,True,standard rotation,AmeriFlux site metadata
+2006,soybean,soybean,True,standard rotation,AmeriFlux site metadata
+2007,maize,maize,True,standard rotation,AmeriFlux site metadata
+2008,soybean,soybean,True,standard rotation,AmeriFlux site metadata
+2009,maize,maize,True,standard rotation,AmeriFlux site metadata
+2010,maize,soybean,False,intercomparison period; maize replaced expected soybean,AmeriFlux site metadata
+2011,maize,maize,True,intercomparison period; fall conservation tillage,AmeriFlux site metadata
+2012,maize,soybean,False,intercomparison period; maize replaced expected soybean,AmeriFlux site metadata
+2013,maize,maize,True,intercomparison period; fall conservation tillage,AmeriFlux site metadata

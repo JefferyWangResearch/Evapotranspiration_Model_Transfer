@@ -1,0 +1,13 @@
+field,description,unit,analysis_role
+LE,daily mean latent heat flux,W m^-2,target
+QC,fraction of hourly LE inputs observed,0-1,filter only
+TA,air temperature,deg C,predictor
+WS,wind speed,m s^-1,predictor
+RH,relative humidity,%,predictor
+SW_IN,incoming shortwave radiation,W m^-2,predictor
+LW_IN,incoming longwave radiation,W m^-2,predictor
+PA,air pressure,kPa,predictor
+NDVI,normalized difference vegetation index,unitless,predictor
+VPD,vapor pressure deficit derived from TA/RH,kPa,predictor/diagnostic
+sin_DOY,cyclic day-of-year sine,unitless,predictor
+cos_DOY,cyclic day-of-year cosine,unitless,predictor

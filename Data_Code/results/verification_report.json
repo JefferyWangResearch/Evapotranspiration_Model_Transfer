@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "n_checks": 11,
+  "checks": [
+    {
+      "check": "target_not_in_features",
+      "passed": true,
+      "detail": "['TA', 'RH', 'WS', 'PA', 'SW_IN', 'LW_IN', 'NDVI', 'VPD', 'sin_DOY', 'cos_DOY']"
+    },
+    {
+      "check": "two_sites",
+      "passed": true,
+      "detail": "['US-Ne2', 'US-Ne3']"
+    },
+    {
+      "check": "thirteen_years",
+      "passed": true,
+      "detail": "2001-2013"
+    },
+    {
+      "check": "finite_main_inputs",
+      "passed": true,
+      "detail": "n=2998"
+    },
+    {
+      "check": "v0_ten_repeats",
+      "passed": true,
+      "detail": "10 per site/model/year"
+    },
+    {
+      "check": "v1_same_site",
+      "passed": true,
+      "detail": "source equals target"
+    },
+    {
+      "check": "v3_other_site",
+      "passed": true,
+      "detail": "source differs from target"
+    },
+    {
+      "check": "v1_v3_complete_grid",
+      "passed": true,
+      "detail": "V1=78, V3=78"
+    },
+    {
+      "check": "v2_includes_target_year",
+      "passed": true,
+      "detail": "excluded year never equals test year"
+    },
+    {
+      "check": "v2_twelve_variants",
+      "passed": true,
+      "detail": "12 per direction/model/year"
+    },
+    {
+      "check": "required_outputs_exist",
+      "passed": true,
+      "detail": "penalty_summary.csv, sensitivity_summary.csv, directional_diagnostic_summary.csv, figure1_validation_design.pdf, figure2_main_results.pdf, figure3_directional_diagnostic.pdf"
+    }
+  ]
+}
